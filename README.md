@@ -1,1 +1,1 @@
-# todo-list
+# This is a NextJs app

@@ -50,7 +50,7 @@ Criteri di accettazione
   - Se la chiamata fallisce, mostra messaggio di errore e possibilità di retry solo per quel componente.
 
 Suggerimenti tecnici
-- Valuta debouncing e prevenzione di chiamate duplicate se il button viene premuto ripetutamente molto velocemente.
+- Valuta prevenzione di chiamate duplicate se il button viene premuto ripetutamente molto velocemente.
 
 ---
 
